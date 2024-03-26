@@ -16,23 +16,6 @@ public class TiposVariaveis {
     //constante que não varia: "final", a variavel tem que ser escrita em caixa alta
     final double VALOR_DE_PI = 3.14;
 
-    int a, b;
-    a = 5;
-    b = 6;
-
-    String resultado = "";
-    if(a==b)
-      resultado = "verdadeiro";
-    else  
-      resultado = "falso";
-
-    System.out.println(resultado);
-
-    // OU se for igual verdadeiro, se não falso
-
-    // String resultado = a==b ? "verdadeiro" : "falso";
-    // System.out.println(resultado);
-    
 
 	}
 }
